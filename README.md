@@ -1,16 +1,38 @@
-### Hi there 👋
+### Hi there, I'm Atilla Türkmen 👋
 
-<!--
-**atillaturkmen/atillaturkmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Open Source Contributions
 
-Here are some ideas to get you started:
+I have contributed to these projects by fixing some translation mistakes:
+- https://github.com/firebase/FirebaseUI-Flutter
+- https://github.com/firebase/flutterfire
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Personal Projects
+### Applications
+#### Website to see statistics on videos you've watched on YouTube
+- Source Code: https://github.com/atillaturkmen/youtube-rewind
+- Demo: https://youtuberewind.net
+#### Kotlin Android game
+- Source Code: https://github.com/atillaturkmen/piano-tiles
+- Play Store Link: https://play.google.com/store/apps/details?id=com.tayyar.tiletap
+#### Website that opens all previously saved links on browser local storage automatically
+- Source Code: https://github.com/atillaturkmen/atillaturkmen.github.io/tree/main/open-tab
+- Demo: https://atillaturkmen.github.io/open-tab/index.html
+### Algorithms/Data Structures
+#### Advent of code solutions
+- Source Code: https://github.com/atillaturkmen/Advent-of-Code-2021
+#### Graph search visualization
+- Source Code: https://github.com/atillaturkmen/atillaturkmen.github.io/tree/main/path-finding
+- Demo: https://atillaturkmen.github.io/path-finding/path-finding.html
+
+## Team Projects
+#### A web application that provides practice questions provided by ChatGPT API on various subjects
+- Demo: https://questionoasis.com/
+#### Game website
+- Source Code: https://github.com/atillaturkmen/rocket_dodge_server
+- Demo: https://rocketdodgegame.com/
+#### Python scripts for analyzing Binance trading data
+- Source Code: https://github.com/atillaturkmen/Luna
+#### Matching application with chat feature
+- Play Store Link: https://play.google.com/store/apps/details?id=com.overlap.jam
+#### Art community platform for browsing and sharing art content
+- Source Code: https://github.com/bounswe/bounswe2022group7
