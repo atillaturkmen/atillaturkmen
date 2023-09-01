@@ -14,9 +14,6 @@ I have contributed to these projects by fixing some translation mistakes:
 #### Kotlin Android game
 - Source Code: https://github.com/atillaturkmen/piano-tiles
 - Play Store Link: https://play.google.com/store/apps/details?id=com.tayyar.tiletap
-#### Website that opens all previously saved links on browser local storage automatically
-- Source Code: https://github.com/atillaturkmen/atillaturkmen.github.io/tree/main/open-tab
-- Demo: https://atillaturkmen.github.io/open-tab/index.html
 ### Algorithms/Data Structures
 #### Advent of code solutions
 - Source Code: https://github.com/atillaturkmen/Advent-of-Code-2021
