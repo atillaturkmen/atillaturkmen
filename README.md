@@ -2,7 +2,7 @@
 
 ## Open Source Contributions
 
-I have contributed to these projects by fixing some translation mistakes:
+I have contributed to these projects by fixing translation mistakes:
 - https://github.com/firebase/FirebaseUI-Flutter
 - https://github.com/firebase/flutterfire
 
