@@ -2,9 +2,8 @@
 https://atillaturkmen.github.io
 ## Open Source Contributions
 
-I have contributed to these projects by fixing translation mistakes:
+I have contributed to "Firebase UI for Flutter" library by fixing translation mistakes:
 - https://github.com/firebase/FirebaseUI-Flutter
-- https://github.com/firebase/flutterfire
 
 ## Personal Projects
 ### Applications
