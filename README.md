@@ -24,9 +24,5 @@ I have contributed to "Firebase UI for Flutter" library by fixing translation mi
 #### Game website
 - Source Code: https://github.com/atillaturkmen/rocket_dodge_server
 - Demo: https://rocketdodgegame.com/
-#### Python scripts for analyzing Binance trading data
-- Source Code: https://github.com/atillaturkmen/Luna
-#### Matching application with chat feature
-- Play Store Link: https://play.google.com/store/apps/details?id=com.overlap.jam
 #### Art community platform for browsing and sharing art content
 - Source Code: https://github.com/bounswe/bounswe2022group7
