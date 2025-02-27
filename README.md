@@ -12,7 +12,6 @@ I have contributed to "Firebase UI for Flutter" library by fixing translation mi
 - Demo: https://youtuberewind.net
 #### Kotlin Android game
 - Source Code: https://github.com/atillaturkmen/piano-tiles
-- Play Store Link: https://play.google.com/store/apps/details?id=com.tayyar.tiletap
 ### Algorithms/Data Structures
 #### Advent of code solutions
 - Source Code: https://github.com/atillaturkmen/Advent-of-Code-2021
