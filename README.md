@@ -2,8 +2,11 @@
 https://atillaturkmen.github.io
 ## Open Source Contributions
 
+I have contributed to the "linkify" package (300K+ downloads), a Dart package that converts text into clickable links. My contribution fixed an issue where URLs containing quotation marks (e.g., example.com/over/there?name="ferret") were not fully recognized as links. This improvement ensures that links with special characters are now correctly detected.
+- https://github.com/Cretezy/linkify/pull/50
+
 I have contributed to "Firebase UI for Flutter" library by fixing translation mistakes:
-- https://github.com/firebase/FirebaseUI-Flutter
+- https://github.com/firebase/flutterfire/pull/11339
 
 ## Personal Projects
 ### Applications
